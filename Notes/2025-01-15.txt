@@ -4,4 +4,13 @@ for this project I want to be able to pull data from Translink from their API pr
 
 
 Useful Websites:
+
 Translink API reference page: https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-realtime
+
+GTFS Infomation: https://gtfs.org/getting-started/what-is-GTFS/
+
+Doing HTTP requests with ESP-32: https://randomnerdtutorials.com/esp32-http-get-post-arduino
+
+Protocol Buffers Documentation: https://protobuf.dev/
+
+Protocol Buffer Example Code: https://github.com/nopnop2002/esp-idf-protocol-buffer/blob/main/main/main.c
