@@ -1,3 +1,7 @@
 Today Is start of development research.
 
 for this project I want to be able to pull data from Translink from their API process it and print it on a screen to show future departure times. 
+
+
+Useful Websites:
+Translink API reference page: https://www.translink.ca/about-us/doing-business-with-translink/app-developer-resources/gtfs/gtfs-realtime
